@@ -1,0 +1,17 @@
+.merch-grid {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    row-gap: 30px;
+    column-gap: 40px;
+    justify-content:center;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center; 
+    max-width:100%;
+    height:auto;
+    max-height:100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
