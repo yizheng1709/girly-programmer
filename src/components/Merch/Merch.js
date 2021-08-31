@@ -7,6 +7,7 @@ import matcha from './images/matcha.jpg'
 import ItemCard from '../ItemCard/ItemCard'
 import tank from './images/tank.jpg'
 import apron from './images/apron.jpg'
+import legging from './images/legging.jpg'
 
 export default function Merch() 
 {
@@ -40,6 +41,11 @@ export default function Merch()
             name: 'I love you so matcha! Apron', 
             img: apron,
             link: 'https://www.redbubble.com/i/apron/I-love-you-so-matcha-by-GirlyProgrammer/86543201.6ZXWR?asc=u'
+        },
+        {
+            name: 'Spring is Here Leggings',
+            img: legging,
+            link: 'https://girly-programmer.creator-spring.com/listing/spring-is-here-august-2021?product=641&variation=102636&size=4161'
         }
     
     ]
